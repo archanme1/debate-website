@@ -30,7 +30,7 @@
             </div>
             <div class="user-menu" style="display:none;">
                 <div id="user-menu1">
-                    <img src="./images/user-icon-temp.png">
+                    <a href="./profile.php"><img src="./images/user-icon-temp.png"></a>
                 </div>
                 <div id="user-menu2">
                     <div id="setting-img">
